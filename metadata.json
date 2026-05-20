@@ -1,0 +1,6 @@
+{
+  "name": "Subtitle Workstation",
+  "description": "A professional subtitle workspace for translating, editing, and cleaning up subtitles with real-time video sync, curation tools, Kurdish optimization, and SRT export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
